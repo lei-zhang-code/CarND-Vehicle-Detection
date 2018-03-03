@@ -96,6 +96,6 @@ I also used the heatmap from 5 consecutive images and require that the car must 
 
 I found that SVC worked much better than LinearSVC, however, SVC is too slow to train and apply on real time video (it was going to take me a few days to process the project video).
 
-Even though LinearSVC's test accuracy is ~99%, I still have many false positives. Perhaps I should have tried decision tree.
+Even though LinearSVC's test accuracy is ~99.5%, I still have many false positives. Perhaps I should have tried decision tree.
 
 
